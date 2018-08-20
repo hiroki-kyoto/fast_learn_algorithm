@@ -8,4 +8,4 @@ Principles are:
 
 2. When a new sample comes in, she COMPREHENDs it without breaking the learned knowledge system. Which means, memory should not be covered in any case.
 
-3. If contradiction occurrs, both knowledge structures should be remembered, the knowledge system will be in an ambiguous state, responses are always made with propabilistic math.
+3. If contradiction occurs, both knowledge structures should be kept, the knowledge system will be in an ambiguous state, responses are always made with propabilistic math.
